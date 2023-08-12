@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack development projects**
 
-- 💬 Ask me about **DSA,C,Java,Servlets,Mysql,HTML,CSS**
+- 💬 Ask me about anything related to  **DSA and Programming**
 
 - 📫 How to reach me **sk2001keerthana@gmail.com**
 
