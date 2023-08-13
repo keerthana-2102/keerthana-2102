@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="center" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" />
+<p align="center">
+    <img  src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="Material Bread logo">
+</p>
 
 - 🔭 I’m currently working on **nodejs**
 
